@@ -1,7 +1,7 @@
-Hi 👋 My name is Bawantha Thilan
+Hi 👋 My name is Madhusanka Chamikara
 =================================================
 
-Software Engineer
+QA Engineer
 -----------------
 
 A professional key presser who turns characters into interesting web things
