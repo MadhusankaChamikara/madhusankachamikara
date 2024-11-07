@@ -21,7 +21,7 @@ Driven by a passion for delivering high-quality results, I have led and supporte
 * **Extended Role Responsibilities**: Contributed beyond QA, stepping into roles like Business Analyst and UI/UX Designer, ensuring seamless project requirements, optimal user experience, and sustainable knowledge management. I’m known for designing logical solutions and developing detailed requirements that support both developers and end users.
 * **Process Improvement**: Introduced standardized QA templates and testing documents that streamlined our processes, now used across the QA team to enhance output and clarity.
   
-I'm excited about new challenges and opportunities to leverage my analytical mindset and dedication to quality. Here, you’ll find a mix of my personal projects and contributions that reflect my commitment to continuous learning, innovation, and excellence in the QA field.
+I'm excited about new challenges and opportunities to leverage my analytical mindset and dedication to quality. Here, you’ll find a mix of projects and contributions that reflect my commitment to continuous learning, innovation, and excellence in the QA field.
 
 ### Socials
 
