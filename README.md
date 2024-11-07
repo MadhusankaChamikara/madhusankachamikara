@@ -49,7 +49,7 @@ I'm excited about new challenges and opportunities to leverage my analytical min
 - **i-Help Project**: A medical app for doctor-patient interaction. [i-Help](https://www.ihelpapp.org)
 - **OrelBuy Project**: E-commerce platform for Sri Lankan customers. [OrelBuy](https://orelbuy.lk)
 - **Signamax Project**: E-commerce platform for US customers. [Signamax](https://signamax.com/)
-- ***Orel Academy Project**: E-Learning platform for Sri Lankan customers. [Orel Academy](https://orelacademy.com/)
+- **Orel Academy Project**: E-Learning platform for Sri Lankan customers. [Orel Academy](https://orelacademy.com/)
 
 ### Certifications
 
