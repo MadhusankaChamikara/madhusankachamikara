@@ -1,53 +1,60 @@
-Hi 👋 My name is Madhusanka Chamikara
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Madhusanka Chamikara
 =================================================
 
 QA Engineer
 -----------------
 
-A professional key presser who turns characters into interesting web things
+* 🌍  Based in Sri Lanka
+* 📧  Contact me at [madushankachamikara124@gmail.com](mailto:madushankachamikara124@gmail.com)
+* 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/madhusanka-chamikara/)
+* 🖥️  Visit my portfolio at [Madhusanka Chamikara](https://github.com/madhusankachamikara)
+* 💼  Currently working on [Orel IT](http://www.orellabs.com/)
 
-* 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [Link](https://bawanthathilan.vercel.app/)
-* ✉️  You can contact me at [bawantharathnayaka@gmail.com](mailto:bawantharathnayaka@gmail.com)
+I'm a QA Engineer with over three years of comprehensive experience in manual and automation testing, project lifecycle management, and quality process improvements. My career at OREL IT has allowed me to expand beyond traditional QA responsibilities, contributing to both the technical and strategic aspects of project development and team collaboration.
 
-<a href="https://www.twitter.com/ThilanBawantha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ThilanBawantha?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+Driven by a passion for delivering high-quality results, I have led and supported QA efforts across a range of local and international projects, consistently earning positive feedback from stakeholders. I am ISTQB-certified, with a strong foundation in testing methodologies and automation tools, and my skills are continually sharpened through additional certifications and self-study.
 
-[![user:9825931's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9825931?theme=default&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+### Key Highlights
 
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
+* **Technical Excellence**: Achieved ISTQB certification with top-tier scores and continually update my skillset with tools like JMeter, Postman, and Cypress. I proactively identify issues and create innovative solutions to improve project outcomes.
+* **Project Contributions**: Lead QA for major projects, including high-stakes initiatives in retail, e-commerce, health, and administrative systems. My thorough verification processes help identify potential defects early, adding significant value to project delivery and sustainability.
+* **Extended Role Responsibilities**: Contributed beyond QA, stepping into roles like Business Analyst and UI/UX Designer, ensuring seamless project requirements, optimal user experience, and sustainable knowledge management. I’m known for designing logical solutions and developing detailed requirements that support both developers and end users.
+* **Process Improvement**: Introduced standardized QA templates and testing documents that streamlined our processes, now used across the QA team to enhance output and clarity.
+  
+I'm excited about new challenges and opportunities to leverage my analytical mindset and dedication to quality. Here, you’ll find a mix of my personal projects and contributions that reflect my commitment to continuous learning, innovation, and excellence in the QA field.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Bawanthathilan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://bawanthathilan.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bawwa_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bawanthathilan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@bawantharathnayaka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/9825931/bawantha-rathnayaka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ThilanBawantha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/channel/UCdCYf8gLkHIMRAoEKJq6UCg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/Madhusanka.Chamikara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/madhusankachamikara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/madhusanka.chamikara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/madhusanka-chamikara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Skills
 
-<b>My GitHub Stats</b>
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+</p>
 
-<a href="http://www.github.com/Bawanthathilan"><img src="https://github-readme-stats.vercel.app/api?username=Bawanthathilan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bawanthathilan's GitHub stats" /></a>
+### Familiar Tools & Capabilities
 
-### Support Me
+- **Test Management**: Azure DevOps, Jira, TestRail, Redmine
+- **Web Automation**: Cypress, Playwright, Katalon Studio
+- **Database Testing**: MySQL Workbench
+- **Security Testing**: OWASP ZAP, Qualys
+- **API Testing**: Postman, JMeter
+- **Cross-Browser/Device Testing**: BrowserStack
+- **IDEs**: IntelliJ, Eclipse, Android Studio, VS Code
 
-<a href="https://www.buymeacoffee.com/bawanthathilan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### Projects
+
+- **Arigo-AI Project**: A dynamic shelf management tool for retail operations. [Arigo-AI](https://www.arigo-ai.com)
+- **i-Help Project**: A medical app for doctor-patient interaction. [i-Help](https://www.ihelpapp.org)
+- **OrelBuy Project**: E-commerce platform for Sri Lankan customers. [OrelBuy](https://orelbuy.lk)
+- **Signamax Project**: E-commerce platform for US customers. [Signamax](https://signamax.com/)
+- ***Orel Academy Project**: E-Learning platform for Sri Lankan customers. [Orel Academy](https://orelacademy.com/)
+
+### Certifications
+
+- **ISTQB - CTFL**: Achieved with a score of 87.5%
+- **JMeter™ Intro**: BlazeMeter University
+- **Performance and Load Testing**: Test Automation University
+- **Excel Basics for Data Analysis**: IBM
+
