@@ -10,7 +10,7 @@ QA Engineer
 * 🖥️  Visit my portfolio at [Madhusanka Chamikara](https://github.com/madhusankachamikara)
 * 💼  Currently working on [Orel IT](http://www.orellabs.com/)
 
-I'm a QA Engineer with over three years of comprehensive experience in manual and automation testing, project lifecycle management, and quality process improvements. My career at OREL IT has allowed me to expand beyond traditional QA responsibilities, contributing to both the technical and strategic aspects of project development and team collaboration.
+I'm a QA Engineer with over three years of comprehensive experience in manual and gaining knowledge in  automation testing, project lifecycle management, and quality process improvements. My career at OREL IT has allowed me to expand beyond traditional QA responsibilities, contributing to both the technical and strategic aspects of project development and team collaboration.
 
 Driven by a passion for delivering high-quality results, I have led and supported QA efforts across a range of local and international projects, consistently earning positive feedback from stakeholders. I am ISTQB-certified, with a strong foundation in testing methodologies and automation tools, and my skills are continually sharpened through additional certifications and self-study.
 
