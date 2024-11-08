@@ -53,7 +53,7 @@ I'm excited about new challenges and opportunities to leverage my analytical min
 
 ### Certifications
 
-- **ISTQB - CTFL**: Achieved with a score of 87.5%
+- **ISTQB - Certified Tester - FL**: Achieved with a score of 87.5%
 - **JMeter™ Intro**: BlazeMeter University
 - **Performance and Load Testing**: Test Automation University
 - **Excel Basics for Data Analysis**: IBM
