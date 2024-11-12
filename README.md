@@ -4,7 +4,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 QA Engineer
 -----------------
 
-* 🌍  Based in Sri Lanka
+* 🌍  Based in Colombo, Sri Lanka
 * 📧  Contact me at [madushankachamikara124@gmail.com](mailto:madushankachamikara124@gmail.com)
 * 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/madhusanka-chamikara/)
 * 🖥️  Visit my portfolio at [Madhusanka Chamikara](https://github.com/madhusankachamikara)
